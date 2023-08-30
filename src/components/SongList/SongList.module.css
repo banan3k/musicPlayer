@@ -5,7 +5,6 @@
 
 .songsWrapper {
   text-align: center;
-  margin-right: 25px;
 }
 
 .buttonLeft {
@@ -24,6 +23,7 @@
   font-size: 20px;
   margin-top: 10px;
   cursor: pointer;
+  margin-right: 10px;
 }
 
 .active {
